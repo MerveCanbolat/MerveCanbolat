@@ -10,6 +10,7 @@ I'm currently focused on improving my skills in:
 - 🌐 **Django** – Developing robust and scalable web applications
 - 🎨 **HTML & CSS** – Designing responsive and accessible user interfaces
 - 💡 **Project Development** – Planning, building, and deploying real-world applications
+-  **C++** - Learning and creating projects with the information I gained
 
 
  📌 Projects & Goals
